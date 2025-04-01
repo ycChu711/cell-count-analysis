@@ -93,7 +93,3 @@ The database schema provided in `db_schema.sql` is designed for scalability with
 - Junction tables for many-to-many relationships
 - Indexes for optimized queries
 - Views for common analysis patterns
-
-## License
-
-[MIT License](LICENSE)
