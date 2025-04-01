@@ -1,8 +1,3 @@
-# 1. convert cell count in cell-count.csv to relative frequency (in percentage) 
-#    of total cell count for each sample
-# 2. Creates boxplots comparing responders vs non-responders
-# 3. Performs statistical analysis on cell populations
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
